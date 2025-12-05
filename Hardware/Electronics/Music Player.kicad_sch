@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "d6a883e8-f66f-46cb-a368-b9d9d5cabd9c")
 	(paper "A3")
+	(title_block
+		(title "Microcontroller")
+		(date "2025-12-05")
+		(rev "0")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_B_Micro"
 			(pin_names
